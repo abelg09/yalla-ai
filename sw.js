@@ -1,6 +1,6 @@
 // Yalla AI — minimal service worker. Network-first for navigations,
 // cache-first for static assets so the PWA boots offline once cached.
-const CACHE = "yalla-ai-v1";
+const CACHE = "yalla-ai-v2";
 const PRECACHE = ["./", "./manifest.webmanifest", "./favicon.svg"];
 
 self.addEventListener("install", (event) => {
