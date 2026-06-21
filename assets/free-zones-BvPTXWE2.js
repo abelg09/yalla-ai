@@ -1,0 +1,1 @@
+const a=["Mainland (DED)","DIFC","ADGM","Dubai Internet City","Dubai Media City","Dubai Silicon Oasis","Dubai Multi Commodities Centre (DMCC)","twofour54","Hub71","Sharjah Research, Technology and Innovation Park (SRTIP)","RAKEZ","Ajman Free Zone","Other"];export{a as F};

@@ -1,5 +1,5 @@
 # Yalla AI
 
-Premium UAE AI networking and marketplace demo.
-
 Live app: https://abelg09.github.io/yalla-ai/
+
+Latest deploy: investor demo UX QA, local demo assets, mobile polish, and demo-mode flows.

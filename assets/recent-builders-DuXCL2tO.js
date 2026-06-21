@@ -1,0 +1,1 @@
+const n="yalla.recentBuilders";function o(e){if(!(typeof window>"u"))try{const t=i().filter(r=>r.id!==e.id);t.unshift({...e,viewed_at:new Date().toISOString()}),window.localStorage.setItem(n,JSON.stringify(t.slice(0,8)))}catch{}}function i(){if(typeof window>"u")return[];try{const e=window.localStorage.getItem(n);return e?JSON.parse(e):[]}catch{return[]}}export{o as a,i as r};
