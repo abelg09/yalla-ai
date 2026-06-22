@@ -1,792 +1,792 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yalla.ai/</loc>
+    <loc>https://yallaai.ae/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/locations</loc>
+    <loc>https://yallaai.ae/locations</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/builders</loc>
+    <loc>https://yallaai.ae/builders</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/solutions</loc>
+    <loc>https://yallaai.ae/solutions</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/abu-dhabi/ai-agents</loc>
+    <loc>https://yallaai.ae/abu-dhabi/ai-agents</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/abu-dhabi/ai-agents</loc>
+    <loc>https://yallaai.ae/ar/abu-dhabi/ai-agents</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/abu-dhabi/chatbots</loc>
+    <loc>https://yallaai.ae/abu-dhabi/chatbots</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/abu-dhabi/chatbots</loc>
+    <loc>https://yallaai.ae/ar/abu-dhabi/chatbots</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/abu-dhabi/automation</loc>
+    <loc>https://yallaai.ae/abu-dhabi/automation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/abu-dhabi/automation</loc>
+    <loc>https://yallaai.ae/ar/abu-dhabi/automation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/abu-dhabi/analytics</loc>
+    <loc>https://yallaai.ae/abu-dhabi/analytics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/abu-dhabi/analytics</loc>
+    <loc>https://yallaai.ae/ar/abu-dhabi/analytics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/abu-dhabi/custom-models</loc>
+    <loc>https://yallaai.ae/abu-dhabi/custom-models</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/abu-dhabi/custom-models</loc>
+    <loc>https://yallaai.ae/ar/abu-dhabi/custom-models</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/abu-dhabi/integration</loc>
+    <loc>https://yallaai.ae/abu-dhabi/integration</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/abu-dhabi/integration</loc>
+    <loc>https://yallaai.ae/ar/abu-dhabi/integration</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/abu-dhabi/consulting</loc>
+    <loc>https://yallaai.ae/abu-dhabi/consulting</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/abu-dhabi/consulting</loc>
+    <loc>https://yallaai.ae/ar/abu-dhabi/consulting</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/abu-dhabi/voice-ai</loc>
+    <loc>https://yallaai.ae/abu-dhabi/voice-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/abu-dhabi/voice-ai</loc>
+    <loc>https://yallaai.ae/ar/abu-dhabi/voice-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/abu-dhabi/computer-vision</loc>
+    <loc>https://yallaai.ae/abu-dhabi/computer-vision</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/abu-dhabi/computer-vision</loc>
+    <loc>https://yallaai.ae/ar/abu-dhabi/computer-vision</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/abu-dhabi/rag-search</loc>
+    <loc>https://yallaai.ae/abu-dhabi/rag-search</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/abu-dhabi/rag-search</loc>
+    <loc>https://yallaai.ae/ar/abu-dhabi/rag-search</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/abu-dhabi/generative-ai</loc>
+    <loc>https://yallaai.ae/abu-dhabi/generative-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/abu-dhabi/generative-ai</loc>
+    <loc>https://yallaai.ae/ar/abu-dhabi/generative-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/dubai/ai-agents</loc>
+    <loc>https://yallaai.ae/dubai/ai-agents</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/dubai/ai-agents</loc>
+    <loc>https://yallaai.ae/ar/dubai/ai-agents</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/dubai/chatbots</loc>
+    <loc>https://yallaai.ae/dubai/chatbots</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/dubai/chatbots</loc>
+    <loc>https://yallaai.ae/ar/dubai/chatbots</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/dubai/automation</loc>
+    <loc>https://yallaai.ae/dubai/automation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/dubai/automation</loc>
+    <loc>https://yallaai.ae/ar/dubai/automation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/dubai/analytics</loc>
+    <loc>https://yallaai.ae/dubai/analytics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/dubai/analytics</loc>
+    <loc>https://yallaai.ae/ar/dubai/analytics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/dubai/custom-models</loc>
+    <loc>https://yallaai.ae/dubai/custom-models</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/dubai/custom-models</loc>
+    <loc>https://yallaai.ae/ar/dubai/custom-models</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/dubai/integration</loc>
+    <loc>https://yallaai.ae/dubai/integration</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/dubai/integration</loc>
+    <loc>https://yallaai.ae/ar/dubai/integration</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/dubai/consulting</loc>
+    <loc>https://yallaai.ae/dubai/consulting</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/dubai/consulting</loc>
+    <loc>https://yallaai.ae/ar/dubai/consulting</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/dubai/voice-ai</loc>
+    <loc>https://yallaai.ae/dubai/voice-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/dubai/voice-ai</loc>
+    <loc>https://yallaai.ae/ar/dubai/voice-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/dubai/computer-vision</loc>
+    <loc>https://yallaai.ae/dubai/computer-vision</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/dubai/computer-vision</loc>
+    <loc>https://yallaai.ae/ar/dubai/computer-vision</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/dubai/rag-search</loc>
+    <loc>https://yallaai.ae/dubai/rag-search</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/dubai/rag-search</loc>
+    <loc>https://yallaai.ae/ar/dubai/rag-search</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/dubai/generative-ai</loc>
+    <loc>https://yallaai.ae/dubai/generative-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/dubai/generative-ai</loc>
+    <loc>https://yallaai.ae/ar/dubai/generative-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/sharjah/ai-agents</loc>
+    <loc>https://yallaai.ae/sharjah/ai-agents</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/sharjah/ai-agents</loc>
+    <loc>https://yallaai.ae/ar/sharjah/ai-agents</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/sharjah/chatbots</loc>
+    <loc>https://yallaai.ae/sharjah/chatbots</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/sharjah/chatbots</loc>
+    <loc>https://yallaai.ae/ar/sharjah/chatbots</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/sharjah/automation</loc>
+    <loc>https://yallaai.ae/sharjah/automation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/sharjah/automation</loc>
+    <loc>https://yallaai.ae/ar/sharjah/automation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/sharjah/analytics</loc>
+    <loc>https://yallaai.ae/sharjah/analytics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/sharjah/analytics</loc>
+    <loc>https://yallaai.ae/ar/sharjah/analytics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/sharjah/custom-models</loc>
+    <loc>https://yallaai.ae/sharjah/custom-models</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/sharjah/custom-models</loc>
+    <loc>https://yallaai.ae/ar/sharjah/custom-models</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/sharjah/integration</loc>
+    <loc>https://yallaai.ae/sharjah/integration</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/sharjah/integration</loc>
+    <loc>https://yallaai.ae/ar/sharjah/integration</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/sharjah/consulting</loc>
+    <loc>https://yallaai.ae/sharjah/consulting</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/sharjah/consulting</loc>
+    <loc>https://yallaai.ae/ar/sharjah/consulting</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/sharjah/voice-ai</loc>
+    <loc>https://yallaai.ae/sharjah/voice-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/sharjah/voice-ai</loc>
+    <loc>https://yallaai.ae/ar/sharjah/voice-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/sharjah/computer-vision</loc>
+    <loc>https://yallaai.ae/sharjah/computer-vision</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/sharjah/computer-vision</loc>
+    <loc>https://yallaai.ae/ar/sharjah/computer-vision</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/sharjah/rag-search</loc>
+    <loc>https://yallaai.ae/sharjah/rag-search</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/sharjah/rag-search</loc>
+    <loc>https://yallaai.ae/ar/sharjah/rag-search</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/sharjah/generative-ai</loc>
+    <loc>https://yallaai.ae/sharjah/generative-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/sharjah/generative-ai</loc>
+    <loc>https://yallaai.ae/ar/sharjah/generative-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ajman/ai-agents</loc>
+    <loc>https://yallaai.ae/ajman/ai-agents</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ajman/ai-agents</loc>
+    <loc>https://yallaai.ae/ar/ajman/ai-agents</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ajman/chatbots</loc>
+    <loc>https://yallaai.ae/ajman/chatbots</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ajman/chatbots</loc>
+    <loc>https://yallaai.ae/ar/ajman/chatbots</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ajman/automation</loc>
+    <loc>https://yallaai.ae/ajman/automation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ajman/automation</loc>
+    <loc>https://yallaai.ae/ar/ajman/automation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ajman/analytics</loc>
+    <loc>https://yallaai.ae/ajman/analytics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ajman/analytics</loc>
+    <loc>https://yallaai.ae/ar/ajman/analytics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ajman/custom-models</loc>
+    <loc>https://yallaai.ae/ajman/custom-models</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ajman/custom-models</loc>
+    <loc>https://yallaai.ae/ar/ajman/custom-models</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ajman/integration</loc>
+    <loc>https://yallaai.ae/ajman/integration</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ajman/integration</loc>
+    <loc>https://yallaai.ae/ar/ajman/integration</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ajman/consulting</loc>
+    <loc>https://yallaai.ae/ajman/consulting</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ajman/consulting</loc>
+    <loc>https://yallaai.ae/ar/ajman/consulting</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ajman/voice-ai</loc>
+    <loc>https://yallaai.ae/ajman/voice-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ajman/voice-ai</loc>
+    <loc>https://yallaai.ae/ar/ajman/voice-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ajman/computer-vision</loc>
+    <loc>https://yallaai.ae/ajman/computer-vision</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ajman/computer-vision</loc>
+    <loc>https://yallaai.ae/ar/ajman/computer-vision</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ajman/rag-search</loc>
+    <loc>https://yallaai.ae/ajman/rag-search</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ajman/rag-search</loc>
+    <loc>https://yallaai.ae/ar/ajman/rag-search</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ajman/generative-ai</loc>
+    <loc>https://yallaai.ae/ajman/generative-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ajman/generative-ai</loc>
+    <loc>https://yallaai.ae/ar/ajman/generative-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/umm-al-quwain/ai-agents</loc>
+    <loc>https://yallaai.ae/umm-al-quwain/ai-agents</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/umm-al-quwain/ai-agents</loc>
+    <loc>https://yallaai.ae/ar/umm-al-quwain/ai-agents</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/umm-al-quwain/chatbots</loc>
+    <loc>https://yallaai.ae/umm-al-quwain/chatbots</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/umm-al-quwain/chatbots</loc>
+    <loc>https://yallaai.ae/ar/umm-al-quwain/chatbots</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/umm-al-quwain/automation</loc>
+    <loc>https://yallaai.ae/umm-al-quwain/automation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/umm-al-quwain/automation</loc>
+    <loc>https://yallaai.ae/ar/umm-al-quwain/automation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/umm-al-quwain/analytics</loc>
+    <loc>https://yallaai.ae/umm-al-quwain/analytics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/umm-al-quwain/analytics</loc>
+    <loc>https://yallaai.ae/ar/umm-al-quwain/analytics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/umm-al-quwain/custom-models</loc>
+    <loc>https://yallaai.ae/umm-al-quwain/custom-models</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/umm-al-quwain/custom-models</loc>
+    <loc>https://yallaai.ae/ar/umm-al-quwain/custom-models</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/umm-al-quwain/integration</loc>
+    <loc>https://yallaai.ae/umm-al-quwain/integration</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/umm-al-quwain/integration</loc>
+    <loc>https://yallaai.ae/ar/umm-al-quwain/integration</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/umm-al-quwain/consulting</loc>
+    <loc>https://yallaai.ae/umm-al-quwain/consulting</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/umm-al-quwain/consulting</loc>
+    <loc>https://yallaai.ae/ar/umm-al-quwain/consulting</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/umm-al-quwain/voice-ai</loc>
+    <loc>https://yallaai.ae/umm-al-quwain/voice-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/umm-al-quwain/voice-ai</loc>
+    <loc>https://yallaai.ae/ar/umm-al-quwain/voice-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/umm-al-quwain/computer-vision</loc>
+    <loc>https://yallaai.ae/umm-al-quwain/computer-vision</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/umm-al-quwain/computer-vision</loc>
+    <loc>https://yallaai.ae/ar/umm-al-quwain/computer-vision</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/umm-al-quwain/rag-search</loc>
+    <loc>https://yallaai.ae/umm-al-quwain/rag-search</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/umm-al-quwain/rag-search</loc>
+    <loc>https://yallaai.ae/ar/umm-al-quwain/rag-search</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/umm-al-quwain/generative-ai</loc>
+    <loc>https://yallaai.ae/umm-al-quwain/generative-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/umm-al-quwain/generative-ai</loc>
+    <loc>https://yallaai.ae/ar/umm-al-quwain/generative-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ras-al-khaimah/ai-agents</loc>
+    <loc>https://yallaai.ae/ras-al-khaimah/ai-agents</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ras-al-khaimah/ai-agents</loc>
+    <loc>https://yallaai.ae/ar/ras-al-khaimah/ai-agents</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ras-al-khaimah/chatbots</loc>
+    <loc>https://yallaai.ae/ras-al-khaimah/chatbots</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ras-al-khaimah/chatbots</loc>
+    <loc>https://yallaai.ae/ar/ras-al-khaimah/chatbots</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ras-al-khaimah/automation</loc>
+    <loc>https://yallaai.ae/ras-al-khaimah/automation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ras-al-khaimah/automation</loc>
+    <loc>https://yallaai.ae/ar/ras-al-khaimah/automation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ras-al-khaimah/analytics</loc>
+    <loc>https://yallaai.ae/ras-al-khaimah/analytics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ras-al-khaimah/analytics</loc>
+    <loc>https://yallaai.ae/ar/ras-al-khaimah/analytics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ras-al-khaimah/custom-models</loc>
+    <loc>https://yallaai.ae/ras-al-khaimah/custom-models</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ras-al-khaimah/custom-models</loc>
+    <loc>https://yallaai.ae/ar/ras-al-khaimah/custom-models</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ras-al-khaimah/integration</loc>
+    <loc>https://yallaai.ae/ras-al-khaimah/integration</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ras-al-khaimah/integration</loc>
+    <loc>https://yallaai.ae/ar/ras-al-khaimah/integration</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ras-al-khaimah/consulting</loc>
+    <loc>https://yallaai.ae/ras-al-khaimah/consulting</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ras-al-khaimah/consulting</loc>
+    <loc>https://yallaai.ae/ar/ras-al-khaimah/consulting</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ras-al-khaimah/voice-ai</loc>
+    <loc>https://yallaai.ae/ras-al-khaimah/voice-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ras-al-khaimah/voice-ai</loc>
+    <loc>https://yallaai.ae/ar/ras-al-khaimah/voice-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ras-al-khaimah/computer-vision</loc>
+    <loc>https://yallaai.ae/ras-al-khaimah/computer-vision</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ras-al-khaimah/computer-vision</loc>
+    <loc>https://yallaai.ae/ar/ras-al-khaimah/computer-vision</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ras-al-khaimah/rag-search</loc>
+    <loc>https://yallaai.ae/ras-al-khaimah/rag-search</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ras-al-khaimah/rag-search</loc>
+    <loc>https://yallaai.ae/ar/ras-al-khaimah/rag-search</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ras-al-khaimah/generative-ai</loc>
+    <loc>https://yallaai.ae/ras-al-khaimah/generative-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/ras-al-khaimah/generative-ai</loc>
+    <loc>https://yallaai.ae/ar/ras-al-khaimah/generative-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/fujairah/ai-agents</loc>
+    <loc>https://yallaai.ae/fujairah/ai-agents</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/fujairah/ai-agents</loc>
+    <loc>https://yallaai.ae/ar/fujairah/ai-agents</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/fujairah/chatbots</loc>
+    <loc>https://yallaai.ae/fujairah/chatbots</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/fujairah/chatbots</loc>
+    <loc>https://yallaai.ae/ar/fujairah/chatbots</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/fujairah/automation</loc>
+    <loc>https://yallaai.ae/fujairah/automation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/fujairah/automation</loc>
+    <loc>https://yallaai.ae/ar/fujairah/automation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/fujairah/analytics</loc>
+    <loc>https://yallaai.ae/fujairah/analytics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/fujairah/analytics</loc>
+    <loc>https://yallaai.ae/ar/fujairah/analytics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/fujairah/custom-models</loc>
+    <loc>https://yallaai.ae/fujairah/custom-models</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/fujairah/custom-models</loc>
+    <loc>https://yallaai.ae/ar/fujairah/custom-models</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/fujairah/integration</loc>
+    <loc>https://yallaai.ae/fujairah/integration</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/fujairah/integration</loc>
+    <loc>https://yallaai.ae/ar/fujairah/integration</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/fujairah/consulting</loc>
+    <loc>https://yallaai.ae/fujairah/consulting</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/fujairah/consulting</loc>
+    <loc>https://yallaai.ae/ar/fujairah/consulting</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/fujairah/voice-ai</loc>
+    <loc>https://yallaai.ae/fujairah/voice-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/fujairah/voice-ai</loc>
+    <loc>https://yallaai.ae/ar/fujairah/voice-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/fujairah/computer-vision</loc>
+    <loc>https://yallaai.ae/fujairah/computer-vision</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/fujairah/computer-vision</loc>
+    <loc>https://yallaai.ae/ar/fujairah/computer-vision</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/fujairah/rag-search</loc>
+    <loc>https://yallaai.ae/fujairah/rag-search</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/fujairah/rag-search</loc>
+    <loc>https://yallaai.ae/ar/fujairah/rag-search</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/fujairah/generative-ai</loc>
+    <loc>https://yallaai.ae/fujairah/generative-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://yalla.ai/ar/fujairah/generative-ai</loc>
+    <loc>https://yallaai.ae/ar/fujairah/generative-ai</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
